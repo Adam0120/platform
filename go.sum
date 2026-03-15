@@ -97,6 +97,8 @@ github.com/go-pay/errgroup v0.0.3 h1:DB4s8e8oWYDyETKQ1y1riMJ7y29zE1uIsMCSjEOFSbU
 github.com/go-pay/errgroup v0.0.3/go.mod h1:0+4b8mvFMS71MIzsaC+gVvB4x37I93lRb2dqrwuU8x8=
 github.com/go-pay/gopay v1.5.109 h1:rF9bCUaAuz2jWHwgIuIfgrAejFOMufo9UsNENouFVcU=
 github.com/go-pay/gopay v1.5.109/go.mod h1:1B4NjEWKwRtJeNk2YhYwjcIJuwtxrOK0nZsh5slqrWI=
+github.com/go-pay/gopay v1.5.116 h1:7RTm4dNDF96kPyb4JgmYsFiCmafHKxxoANlBJ9lftRM=
+github.com/go-pay/gopay v1.5.116/go.mod h1:2R6Ggc9FqYnbC37yoOJZH4eZMFpykPDVOobnZNP+R2A=
 github.com/go-pay/smap v0.0.2 h1:kKflYor5T5FgZltPFBMTFfjJvqYMHr5VnIFSEyhVTcA=
 github.com/go-pay/smap v0.0.2/go.mod h1:HW9oAo0okuyDYsbpbj5fJFxnNj/BZorRGFw26SxrNWw=
 github.com/go-pay/util v0.0.4 h1:TuwSU9o3Qd7m9v1PbzFuIA/8uO9FJnA6P7neG/NwPyk=
